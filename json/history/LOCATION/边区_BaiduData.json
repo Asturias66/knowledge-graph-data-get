@@ -1,0 +1,19 @@
+{
+    "introduction": "边区，汉语词语，读音为biān qū，意思是边缘地带建立的根据地。",
+    "attributes": {
+        "中文名": "边区",
+        "拼音": "biānqū",
+        "注音": "ㄅㄧㄢ ㄑㄩ",
+        "出处": "《步董必武同志原韵》",
+        "释义": "边缘地带建立的根据地"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "LOCATION"
+}

@@ -1,0 +1,16 @@
+{
+    "introduction": "政治部是政治部是军队中管理所属部队党的工作，组织进行政治教育的领导机关。",
+    "attributes": {
+        "中文名": "政治部",
+        "定义": "军队中管理所属部队党的工作，组织进行政治教育的领导机关"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

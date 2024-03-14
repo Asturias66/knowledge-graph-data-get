@@ -1,0 +1,18 @@
+{
+    "introduction": "为了打击敌对国家和黑客的网络攻击，“网络司令部”于当天正式启动。",
+    "attributes": {
+        "中文名": "美军网络司令部",
+        "启动时间": "2010.5.21",
+        "地点任务": "马里兰州的米德基地",
+        "隶属编制": "编制近千人。"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

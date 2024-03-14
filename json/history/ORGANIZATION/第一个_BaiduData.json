@@ -1,0 +1,21 @@
+{
+    "introduction": "第一个，Dear Jane组合创作演唱的单曲。Dear Jane四位成员包括主音Tim（黄天翱）、吉他手Adam（戴乾亨）和贝斯手Howie（翁厚梁）及鼓手Jackal（伍汉邦）。",
+    "attributes": {
+        "中文名": "第一个",
+        "所属专辑": "《Xoxo》",
+        "歌曲原唱": "DearJane",
+        "填词": "黄贯中、DearJane",
+        "编曲": "DearJane",
+        "发行日期": "2009年8月7日",
+        "所属公司": "大国文化"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

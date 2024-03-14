@@ -1,0 +1,19 @@
+{
+    "introduction": "国共，读音为guó gòng，汉语词语，意思是中国国民党和中国共产党的并称。 ",
+    "attributes": {
+        "中文名": "国共",
+        "拼音": "guó gòng",
+        "注音": "ㄍㄨㄛˊ ㄍㄨㄙˋ",
+        "释义": "中国国民党和中国共产党的并称",
+        "img": "https://bkimg.cdn.bcebos.com/pic/e850352ac65c10384d24cecebc119313b07e8967?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

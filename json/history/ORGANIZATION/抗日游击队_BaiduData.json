@@ -1,0 +1,16 @@
+{
+    "introduction": "抗日游击队是指在抗日战争中，在敌统治区、敌占领区、接敌区，以分散、流动、袭击的作战方法打击敌人的一种非正规的武装组织。",
+    "attributes": {
+        "中文名": "抗日游击队",
+        "类别": "武装组织"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

@@ -1,0 +1,19 @@
+{
+    "introduction": "枣林沟，该地名以本地植物结合地形特征所命名的地名。",
+    "attributes": {
+        "中文名": "枣林沟",
+        "所在区域": "山西省",
+        "性质": "地名",
+        "罗马字母拼写": "Zǎolíngōu",
+        "img": "https://bkimg.cdn.bcebos.com/pic/3ac79f3df8dcd100baa140b56fda5010b912c8fc815c?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "LOCATION"
+}

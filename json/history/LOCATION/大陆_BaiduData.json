@@ -1,0 +1,19 @@
+{
+    "introduction": "中国大陆地区，简称“大陆地区”，即中国除台湾地区以外的领土，包括香港特别行政区和澳门特别行政区 ，与台湾地区相对应，两地区同属一个中国，中国大陆地区的简称是“中国大陆”或“大陆地区”。",
+    "attributes": {
+        "中文名": "中国大陆地区",
+        "外文名": "Chinese mainland region",
+        "别名": "中国大陆、大陆地区"
+    },
+    "relation": {
+        "person": {
+            "领导人": "习近平"
+        },
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "LOCATION"
+}

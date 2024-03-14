@@ -1,0 +1,17 @@
+{
+    "introduction": "中央，汉语词语，读音为zhōng yāng，意思是指中心的地方。今指国家政权或政治团体的最高领导机构，出自《诗·秦风·蒹葭》。",
+    "attributes": {
+        "中文名": "中央",
+        "拼音": "zhōng yāng",
+        "注音": "ㄓㄨㄙ ㄧㄤ"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

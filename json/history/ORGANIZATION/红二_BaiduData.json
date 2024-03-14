@@ -1,0 +1,18 @@
+{
+    "introduction": "红二是福建南平一带流行的一款牌类游戏，以谁先出完牌决定胜负。因其上手容易，打法灵活，心理战与配合并重，具极大趣味性，深受大家喜爱。",
+    "attributes": {
+        "中文名": "红二",
+        "种类": "牌类游戏",
+        "玩家人数": "四名",
+        "牌源": "2 副牌"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

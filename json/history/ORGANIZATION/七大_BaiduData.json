@@ -1,0 +1,17 @@
+{
+    "introduction": "中国共产党第七次全国代表大会于1945年4月23日至6月11日在延安杨家岭中央大礼堂举行。",
+    "attributes": {
+        "中文名": "中国共产党第七次全国代表大会"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {
+            "召开时间": "1945年4月23日"
+        },
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

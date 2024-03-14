@@ -1,0 +1,18 @@
+{
+    "introduction": "《雁门关》，一名《八郎探母》、《南北和》；豫剧传统剧目，杨启超代表剧目之一。",
+    "attributes": {
+        "中文名": "雁门关",
+        "戏剧发生起因": "宋、辽交兵于飞虎峪",
+        "戏剧主讲": "金沙滩之战",
+        "结尾": "杨家将乘势攻破辽城后乃乞和"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "LOCATION"
+}

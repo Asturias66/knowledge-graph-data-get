@@ -1,0 +1,16 @@
+{
+    "entitiesDic": {
+        "ORGANIZATION": [
+            "党中央"
+        ],
+        "PERSON": [],
+        "LOCATION": [],
+        "DATE": [
+            "一百年"
+        ],
+        "EVENT": []
+    },
+    "personLineDic": {},
+    "eventLineDic": {},
+    "organizationLineDic": {}
+}

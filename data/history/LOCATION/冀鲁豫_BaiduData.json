@@ -1,0 +1,18 @@
+{
+    "introduction": "冀鲁豫即河北省、山东省、河南省的简称。",
+    "attributes": {
+        "中文名": "冀鲁豫",
+        "范围": "河北省、河南省、山东省",
+        "位置": "中国华北地区",
+        "img": "https://bkimg.cdn.bcebos.com/pic/242dd42a2834349b033bd59264a202ce36d3d53910d9?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "LOCATION"
+}

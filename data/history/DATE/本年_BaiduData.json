@@ -1,0 +1,29 @@
+{
+    "introduction": "本年是一个汉语词语，拼音是běn nián，意思是该年，这一年。",
+    "attributes": {
+        "中文名": "本年",
+        "拼音": "běn nián",
+        "释义": "该年，这一年",
+        "出处": "《福惠全书·莅任·清查之法》",
+        "近义词": "今年",
+        "注音": "ㄅㄣˇ ㄋㄧㄢˊ",
+        "img": "https://bkimg.cdn.bcebos.com/pic/34fae6cd7b899e5159a58ec74ca7d933c8950d3d?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [
+        [
+            "年",
+            "未知",
+            "清·黄六鸿《福惠全书·莅任·清查之法》：“其里书攒造本年实徵，亦遵照会计核定",
+            "本年:亦遵照会计核定",
+            "0,0"
+        ]
+    ],
+    "type": "DATE"
+}

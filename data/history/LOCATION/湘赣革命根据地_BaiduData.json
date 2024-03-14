@@ -1,0 +1,18 @@
+{
+    "introduction": "湘赣革命根据地，是土地革命战争时期，在井冈山、赣西南、湘东南地区革命斗争基础上，于1930年2月至1934年8月建立发展起来的 。",
+    "attributes": {
+        "中文名": "湘赣革命根据地",
+        "别名": "湘赣苏区",
+        "地理位置": "湖南、江西两省边界地区",
+        "img": "https://bkimg.cdn.bcebos.com/pic/b7003af33a87e95014bce8361f385343faf2b4c4?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "LOCATION"
+}

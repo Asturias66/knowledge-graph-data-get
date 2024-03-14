@@ -1,0 +1,18 @@
+{
+    "introduction": "平津，汉语词语，拼音是píng jīn，意思是坦途；大道。 ",
+    "attributes": {
+        "中文名": "平津",
+        "拼音": "píng jīn",
+        "注音": "ㄆㄧㄥˊ ㄐㄧㄣ",
+        "解释": "坦途；大道"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "LOCATION"
+}

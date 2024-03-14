@@ -1,0 +1,19 @@
+{
+    "introduction": "全国，汉语词语，读音为quán guó，意思是整个国家，保全国家。",
+    "attributes": {
+        "中文名": "全国",
+        "读音": "quán guó",
+        "注音": "ㄑㄩㄢˊ ㄍㄨㄛˊ",
+        "解释": "整个国家，保全国家",
+        "img": "https://bkimg.cdn.bcebos.com/pic/cf1b9d16fdfaaf51a8cd9eaf875494eef01f7af7?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

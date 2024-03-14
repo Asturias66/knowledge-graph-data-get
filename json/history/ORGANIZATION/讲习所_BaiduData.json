@@ -1,0 +1,18 @@
+{
+    "introduction": "讲习所，汉语词语，读音是jiǎng xí suǒ，意思是讲议学习之所，出自《借山亭记》。 ",
+    "attributes": {
+        "中文名": "讲习所",
+        "读音": "jiǎng xí suǒ",
+        "注音": "ㄐㄧㄤˇ ㄒㄧˊ ㄙㄨㄛˇ",
+        "词意": "讲议学习之所"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}

@@ -1,0 +1,23 @@
+{
+    "introduction": "《革命军事委员会》是少年儿童出版社出版的图书，作者是(苏联)阿·盖达尔，德·杜宾斯基 绘图",
+    "attributes": {
+        "ISBN": "10024-949",
+        "作者": "(苏联)阿·盖达尔、德·杜宾斯基 绘图",
+        "出版社": "少年儿童出版社",
+        "出版时间": "1963年1月",
+        "页数": "52页",
+        "定价": "0.24元",
+        "装帧": "平装",
+        "译者": "梦海",
+        "img": "https://bkimg.cdn.bcebos.com/pic/241f95cad1c8a786c917833cc247de3d70cf3bc7faf8?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg"
+    },
+    "relation": {
+        "person": {},
+        "location": {},
+        "date": {},
+        "organization": {},
+        "event": {}
+    },
+    "timeLine": [],
+    "type": "ORGANIZATION"
+}
